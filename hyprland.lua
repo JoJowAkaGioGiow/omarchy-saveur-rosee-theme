@@ -25,7 +25,7 @@ hl.config({
       enabled = true,
       render_power = 4,
       range = 6,
-      color = "rgb(060b16)",
+      color = "rgba(060b16aa)",
       offset = { 5, 5 },
     },
 
@@ -43,7 +43,7 @@ hl.config({
     },
 
     dim_inactive = true,
-    dim_strength = 0.2,
+    dim_strength = 0.1,
   },
 
   animations = {
